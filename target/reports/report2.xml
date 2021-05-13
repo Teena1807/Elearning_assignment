@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="50.538438">
+<testcase classname="Signup Functionality For Elearning" name="Elearning Registration and Compose Mail" time="50.538438">
+<system-out><![CDATA[Given User is on Elearning Home page........................................passed
+When click on Signup Link...................................................passed
+And Registration page should appear.........................................passed
+And User Enters Mandatory Feild values "Test7","Test6","Test8@gmail.com","testt19","password","password" in step.passed
+And User Clicks on Register.................................................passed
+And User registration is successful "Test7","Test6".........................passed
+And User click on Compose Link..............................................passed
+And User Enter "aaa","Test mail","HELLO" in step............................passed
+And User Clicks on Send Message.............................................passed
+Then I verify the message is sent "My Organization - My education"..........passed
+]]></system-out>
+</testcase>
+</testsuite>
