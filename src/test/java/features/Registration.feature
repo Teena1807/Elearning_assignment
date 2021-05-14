@@ -18,5 +18,5 @@ Feature: Signup Functionality For Elearning
     
     Examples:
    |firstname|lastname|email             |username  |pass       |confirmpass|send to    |subject        |message     |pageTitle											|
-   |Test7    |Test6   |Test8@gmail.com   |testt19   |password   |password   | aaa       |Test mail      |  HELLO     |My Organization - My education |
+   |Test7    |Test6   |Test8@gmail.com   |testt20   |password   |password   | aaa       |Test mail      |  HELLO     |My Organization - My education |
    
